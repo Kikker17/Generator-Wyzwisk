@@ -1,0 +1,8 @@
+C:\Users\epist\Desktop\Generator Wyzwisk\generator_wyzwisk\generator_wyzwisk\bin\Debug\generator_wyzwisk.exe
+C:\Users\epist\Desktop\Generator Wyzwisk\generator_wyzwisk\generator_wyzwisk\bin\Debug\generator_wyzwisk.pdb
+C:\Users\epist\Desktop\Generator Wyzwisk\generator_wyzwisk\generator_wyzwisk\obj\x86\Debug\generator_wyzwisk.Form1.resources
+C:\Users\epist\Desktop\Generator Wyzwisk\generator_wyzwisk\generator_wyzwisk\obj\x86\Debug\generator_wyzwisk.Properties.Resources.resources
+C:\Users\epist\Desktop\Generator Wyzwisk\generator_wyzwisk\generator_wyzwisk\obj\x86\Debug\generator_wyzwisk.csproj.GenerateResource.Cache
+C:\Users\epist\Desktop\Generator Wyzwisk\generator_wyzwisk\generator_wyzwisk\obj\x86\Debug\generator_wyzwisk.exe
+C:\Users\epist\Desktop\Generator Wyzwisk\generator_wyzwisk\generator_wyzwisk\obj\x86\Debug\generator_wyzwisk.pdb
+C:\Users\epist\Desktop\Generator Wyzwisk\generator_wyzwisk\generator_wyzwisk\obj\x86\Debug\generator_wyzwisk.csprojResolveAssemblyReference.cache
