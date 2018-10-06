@@ -36,7 +36,7 @@
             // 
             // button1
             // 
-            this.button1.BackColor = System.Drawing.SystemColors.Desktop;
+            this.button1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
             this.button1.Font = new System.Drawing.Font("Arial Black", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.button1.Location = new System.Drawing.Point(305, 137);
             this.button1.Name = "button1";
@@ -52,6 +52,7 @@
             this.textBox1.Font = new System.Drawing.Font("Arial", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.textBox1.Location = new System.Drawing.Point(89, 293);
             this.textBox1.Name = "textBox1";
+            this.textBox1.ReadOnly = true;
             this.textBox1.Size = new System.Drawing.Size(573, 33);
             this.textBox1.TabIndex = 3;
             this.textBox1.Text = "...";
@@ -64,6 +65,7 @@
             this.textBox2.Location = new System.Drawing.Point(140, 23);
             this.textBox2.Multiline = true;
             this.textBox2.Name = "textBox2";
+            this.textBox2.ReadOnly = true;
             this.textBox2.Size = new System.Drawing.Size(473, 57);
             this.textBox2.TabIndex = 4;
             this.textBox2.Text = "Wygeneruj idealne niewulgarne wyzwisko,\r\ngdy tylko będziesz potrzebować!";
